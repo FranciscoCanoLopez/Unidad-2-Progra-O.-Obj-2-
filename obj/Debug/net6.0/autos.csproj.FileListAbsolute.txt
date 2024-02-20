@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\autos\autos\bin\Debug\net6.0\autos.exe
+C:\Users\DELL\source\repos\autos\autos\bin\Debug\net6.0\autos.deps.json
+C:\Users\DELL\source\repos\autos\autos\bin\Debug\net6.0\autos.runtimeconfig.json
+C:\Users\DELL\source\repos\autos\autos\bin\Debug\net6.0\autos.dll
+C:\Users\DELL\source\repos\autos\autos\bin\Debug\net6.0\autos.pdb
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.dll
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\refint\autos.dll
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.pdb
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\autos.genruntimeconfig.cache
+C:\Users\DELL\source\repos\autos\autos\obj\Debug\net6.0\ref\autos.dll
